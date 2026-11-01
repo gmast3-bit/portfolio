@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gulshan | portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: project.qmd
+        text: Past Project Showcase
+
+format:
+  html:
+    theme: flatly
+
+
+
