@@ -4,13 +4,20 @@
     "href": "project.html",
     "title": "Past Project Showcase",
     "section": "",
-    "text": "Coming soon."
+    "text": "Research poster, UIC, PA 402, Fall 2024\nUsing the High School Longitudinal Study of 2009 (HSLS:09) from the National Center for Education Statistics, I looked at how students’ GPA varies with their parents’ education, their socioeconomic status, and their race. Students with higher-educated parents had higher average GPAs, GPA rose steadily across SES quintiles, and racial gaps remained even within the same parental education level.\nSkills demonstrated:\n\nCleaning and recoding national survey data in R (missing values, combined variables)\nGrouped summary statistics with dplyr\nData visualization with ggplot2 (bar charts, boxplots, faceted charts)\nCommunicating equity findings to policy and non-technical audiences\n\n\n\n\n\n\n\nTipKey finding\n\n\n\nEven among students whose parents had the same level of education, GPA gaps between racial groups remained, pointing to inequalities beyond family background.\n\n\nDownload the full poster (PDF)"
+  },
+  {
+    "objectID": "project.html#how-parental-education-shapes-childrens-academic-achievement-across-ses-and-race",
+    "href": "project.html#how-parental-education-shapes-childrens-academic-achievement-across-ses-and-race",
+    "title": "Past Project Showcase",
+    "section": "",
+    "text": "Research poster, UIC, PA 402, Fall 2024\nUsing the High School Longitudinal Study of 2009 (HSLS:09) from the National Center for Education Statistics, I looked at how students’ GPA varies with their parents’ education, their socioeconomic status, and their race. Students with higher-educated parents had higher average GPAs, GPA rose steadily across SES quintiles, and racial gaps remained even within the same parental education level.\nSkills demonstrated:\n\nCleaning and recoding national survey data in R (missing values, combined variables)\nGrouped summary statistics with dplyr\nData visualization with ggplot2 (bar charts, boxplots, faceted charts)\nCommunicating equity findings to policy and non-technical audiences\n\n\n\n\n\n\n\nTipKey finding\n\n\n\nEven among students whose parents had the same level of education, GPA gaps between racial groups remained, pointing to inequalities beyond family background.\n\n\nDownload the full poster (PDF)"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About",
+    "title": "Gulshan Mastonova",
     "section": "",
-    "text": "Coming soon."
+    "text": "I am a graduate student in the MS in Civic Analytics program at the University of Illinois Chicago, graduating in Spring 2027. My work focuses on using data analysis in R to understand and improve public services and community wellbeing. Last year I used to work with the Government Finance Research Center (GFRC) as a research assistant helping with the Cook County project on water meter/sewer system, and in collaboration with the Pew Charitable Trust supported the project on expenditure forecasting."
   }
 ]
