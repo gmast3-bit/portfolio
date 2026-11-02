@@ -2,5 +2,23 @@
 title: "Past Project Showcase"
 ---
 
-Coming soon.
+## How Parental Education Shapes Children's Academic Achievement Across SES and Race
 
+*Research poster, UIC, PA 402, Fall 2024*
+
+Using the High School Longitudinal Study of 2009 (HSLS:09) from the National Center for Education Statistics, I looked at how students' GPA varies with their parents' education, their socioeconomic status, and their race. Students with higher-educated parents had higher average GPAs, GPA rose steadily across SES quintiles, and racial gaps remained even within the same parental education level.
+
+**Skills demonstrated:**
+
+- Cleaning and recoding national survey data in R (missing values, combined variables)
+- Grouped summary statistics with dplyr
+- Data visualization with ggplot2 (bar charts, boxplots, faceted charts)
+- Communicating equity findings to policy and non-technical audiences
+
+[Download the full poster (PDF)](files/project.pdf){.btn .btn-primary download="project.pdf"}
+
+### Preview
+
+<iframe src="files/project.pdf" width="100%" height="700px">
+
+</iframe>
