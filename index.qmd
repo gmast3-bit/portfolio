@@ -1,5 +1,23 @@
 ---
-title: "About"
+title: "Gulshan Mastonova"
+image: images/proffi.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:gmast3@uic.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/gmast3-bit 
+    - icon: file-earmark-pdf
+      text: Resume
+      href: files/resume.pdf
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gulshanmastonova/
 ---
 
-Coming soon.
+I am a graduate student in the MS in Civic Analytics program at the University of Illinois Chicago, graduating in Spring 2027. My work focuses on using data analysis in R to understand and improve public services and community wellbeing. Last year I used to work with the Government Finance Research Center (GFRC) as a research assistant helping with the Cook County project on water meter/sewer system, and in collaboration with the Pew Charitable Trust supported the project on expenditure forecasting.  

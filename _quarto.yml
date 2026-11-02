@@ -1,19 +1,32 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+  - files/resume.pdf
+  - files/project.pdf
 
 website:
-  title: "Gulshan | portfolio"
+  title: "Gulshan | Portfolio"
   navbar:
+    background: "#001E62"
+    foreground: "#FFFFFF"
     left:
       - href: index.qmd
         text: About
       - href: project.qmd
         text: Past Project Showcase
-
+  page-footer:
+    center: "© 2026 Gulshan Mastonova · Built with Quarto"
+    
 format:
   html:
     theme: flatly
+    css: styles.css
+    fontsize: 1.05rem
+    fontcolor: "#212529"
+    linkcolor: "#D50032"
+    toc: false
+    
 
 
 
