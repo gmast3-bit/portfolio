@@ -15,6 +15,11 @@ Using the High School Longitudinal Study of 2009 (HSLS:09) from the National Cen
 - Data visualization with ggplot2 (bar charts, boxplots, faceted charts)
 - Communicating equity findings to policy and non-technical audiences
 
+::: {.callout-tip}
+## Key finding
+Even among students whose parents had the same level of education, GPA gaps between racial groups mained, pointing to inequalities beyond family background.
+:::
+
 [Download the full poster (PDF)](files/project.pdf){.btn .btn-primary download="project.pdf"}
 
 ### Preview

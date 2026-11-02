@@ -1,1 +1,32 @@
-/* css styles */
+h1, h2, h3 {
+  color: #001E62;
+}
+
+h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+.btn-primary {
+  background-color: #D50032;
+  border-color: #D50032;
+  padding: 0.6rem 1.4rem;
+  border-radius: 0.5rem;
+}
+
+.btn-primary:hover {
+  background-color: #A80028;
+  border-color: #A80028;
+}
+
+iframe {
+  border: 1px solid #DEE2E6;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.1);
+}
+
+.about-link {
+  color: #001E62 !important;
+  border-color: #001E62 !important;
+}
