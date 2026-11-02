@@ -14,7 +14,7 @@ about:
       href: https://github.com/gmast3-bit 
     - icon: file-earmark-pdf
       text: Resume
-      href: files/resume.pdf
+      href: https://gmast3-bit.github.io/portfolio/files/resume.pdf
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/gulshanmastonova/
